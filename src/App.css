@@ -1,0 +1,8 @@
+.App {
+    width: 100vw;
+    height: 100vw;
+    background-image: linear-gradient(90deg, #a192f3 35%, #2a07ee 90%);
+}
+li {
+    list-style: none;
+}
